@@ -1,0 +1,12 @@
+/* styles.css */
+body {
+    background-color: #cce6ff; /* light blue */
+    text-align: center;
+    margin: 0;
+    padding: 0px;
+  }
+  
+  h1 {
+    color: #3366cc; /* slightly darker blue for the text */
+  }
+  

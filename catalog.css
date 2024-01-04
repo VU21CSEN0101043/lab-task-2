@@ -1,0 +1,47 @@
+/* styles.css */
+body {
+    background-color: #cce6ff; /* light blue */
+    color: #333; /* dark gray text for better readability */
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: white;
+    color: #3366cc; /* slightly darker blue for header text */
+    padding: 20px;
+    text-align: center;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  th, td {
+    border: 1px solid #3366cc; /* slightly darker blue for borders */
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #3366cc; /* slightly darker blue for header background */
+    color: white;
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: white;
+  }
+  
+  tbody tr:nth-child(odd) {
+    background-color: #cce6ff; /* light blue for odd rows */
+  }
+  
+  footer {
+    background-color: white;
+    color: #3366cc; /* slightly darker blue for footer text */
+    text-align: center;
+    padding: 10px;
+  }
+  

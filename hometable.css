@@ -1,0 +1,18 @@
+/* styles.css */
+body {
+    background-color: #cce6ff; /* light blue */
+    color: #333; /* dark gray text for better readability */
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #3366cc; /* slightly darker blue for the heading text */
+    text-decoration: underline; /* underline the heading */
+  }
+  
+  h3 {
+    color: #3366cc; /* slightly darker blue for the text */
+    margin-bottom: 20px; /* add space at the bottom of each paragraph */
+  }
+  

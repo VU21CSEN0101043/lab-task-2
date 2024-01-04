@@ -1,0 +1,11 @@
+/* styles.css */
+body {
+    background-color: #cce6ff; /* light blue */
+    text-align: center;
+  }
+  
+  h1 {
+    color: #3366cc; /* slightly darker blue for the heading text */
+    text-decoration: underline; /* underline the heading */
+  }
+  

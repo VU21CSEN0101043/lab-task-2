@@ -1,0 +1,41 @@
+/* styles.css */
+body {
+    background-color: #cce6ff; /* light blue */
+    color: #333; /* dark gray text for better readability */
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1, h2 {
+    color: #3366cc; /* slightly darker blue for headings */
+  }
+  
+  form {
+    margin-top: 20px; /* add space between headings and form */
+  }
+  
+  label {
+    display: block; /* place labels on a new line */
+    margin-bottom: 5px; /* add space between labels and input fields */
+  }
+  
+  input[type="text"],
+  input[type="password"],
+  input[type="submit"] {
+    padding: 8px; /* add padding for input fields and button */
+    margin-bottom: 10px; /* add space between input fields and button */
+  }
+  
+  input[type="submit"] {
+    background-color: #3366cc; /* darker blue for the submit button */
+    color: white; /* white text on the submit button */
+    border: none;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #254e80; /* darker shade of blue on hover */
+  }
+  
